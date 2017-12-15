@@ -1,0 +1,13 @@
+
+
+
+body {
+    background-color: gold
+}
+
+header {
+    min-width: 40vw;
+    min-width: 40vh;
+    text-align: center;
+    background-color: dodgerblue;
+}
